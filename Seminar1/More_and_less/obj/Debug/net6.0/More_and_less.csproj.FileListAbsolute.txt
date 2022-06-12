@@ -1,0 +1,15 @@
+C:\Users\ххх\Desktop\Homework workshop C#\Seminar1\More_and_less\bin\Debug\net6.0\More_and_less.exe
+C:\Users\ххх\Desktop\Homework workshop C#\Seminar1\More_and_less\bin\Debug\net6.0\More_and_less.deps.json
+C:\Users\ххх\Desktop\Homework workshop C#\Seminar1\More_and_less\bin\Debug\net6.0\More_and_less.runtimeconfig.json
+C:\Users\ххх\Desktop\Homework workshop C#\Seminar1\More_and_less\bin\Debug\net6.0\More_and_less.dll
+C:\Users\ххх\Desktop\Homework workshop C#\Seminar1\More_and_less\bin\Debug\net6.0\More_and_less.pdb
+C:\Users\ххх\Desktop\Homework workshop C#\Seminar1\More_and_less\obj\Debug\net6.0\More_and_less.csproj.AssemblyReference.cache
+C:\Users\ххх\Desktop\Homework workshop C#\Seminar1\More_and_less\obj\Debug\net6.0\More_and_less.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ххх\Desktop\Homework workshop C#\Seminar1\More_and_less\obj\Debug\net6.0\More_and_less.AssemblyInfoInputs.cache
+C:\Users\ххх\Desktop\Homework workshop C#\Seminar1\More_and_less\obj\Debug\net6.0\More_and_less.AssemblyInfo.cs
+C:\Users\ххх\Desktop\Homework workshop C#\Seminar1\More_and_less\obj\Debug\net6.0\More_and_less.csproj.CoreCompileInputs.cache
+C:\Users\ххх\Desktop\Homework workshop C#\Seminar1\More_and_less\obj\Debug\net6.0\More_and_less.dll
+C:\Users\ххх\Desktop\Homework workshop C#\Seminar1\More_and_less\obj\Debug\net6.0\refint\More_and_less.dll
+C:\Users\ххх\Desktop\Homework workshop C#\Seminar1\More_and_less\obj\Debug\net6.0\More_and_less.pdb
+C:\Users\ххх\Desktop\Homework workshop C#\Seminar1\More_and_less\obj\Debug\net6.0\More_and_less.genruntimeconfig.cache
+C:\Users\ххх\Desktop\Homework workshop C#\Seminar1\More_and_less\obj\Debug\net6.0\ref\More_and_less.dll
