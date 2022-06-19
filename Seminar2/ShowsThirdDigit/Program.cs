@@ -1,7 +1,8 @@
 ﻿int ThirdDigit(int num){
     int a = 0;
     if (num > 999){
-      a =( num /=10 )% 10;
+      num = num /=10;
+      a = num % 10;
     }
     else {
       a = num % 10;
