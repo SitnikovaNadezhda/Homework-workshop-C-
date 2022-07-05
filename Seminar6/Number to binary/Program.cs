@@ -8,7 +8,7 @@ while(num>0){
   int i= num%2;
   Array.Resize(ref BinaryArr, BinaryArr.Length + 1);
   BinaryArr[BinaryArr.Length - 1] = i;
-  i++;
+//   i++;
   num= num/2;
 }
 void SwapArray(int[] array)
@@ -33,7 +33,6 @@ void ShowArray( int[] array)
 }
 
 SwapArray(BinaryArr);
-
 
 
 
