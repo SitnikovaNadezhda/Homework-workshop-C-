@@ -24,8 +24,9 @@ void ShowArray( int[] array)
         Console.Write( array[i]+" ");
     }
 }
-//  int[] myRandomArray = CreateRandomArrey(8);
-//  ShowArray(myRandomArray);
+ int[] myRandomArray = CreateRandomArrey(8);
+ ShowArray(myRandomArray);
 
 int [] secondarray = CreateArray(8);
 ShowArray(secondarray);
+
