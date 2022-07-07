@@ -1,4 +1,4 @@
-// Напишите программу, которая будет преобразовывать десятичное число в двоичное.
+﻿// Напишите программу, которая будет преобразовывать десятичное число в двоичное.
 
 Console.WriteLine("Введите число:");
 int num = Convert.ToInt32(Console.ReadLine());
@@ -8,6 +8,7 @@ while(num>0){
   int i= num%2;
   Array.Resize(ref BinaryArr, BinaryArr.Length + 1);
   BinaryArr[BinaryArr.Length - 1] = i;
+//   i++;
   num= num/2;
 }
 void SwapArray(int[] array)
