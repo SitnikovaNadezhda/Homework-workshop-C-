@@ -1,15 +1,8 @@
 ﻿// Найдите произведение пар чисел в одномерном массиве. Парой считаем первый и последний элемент, 
 //второй и предпоследний и т.д. Результат запишите в новом массиве.
 
-int[] RandomArray(int size)
-{
-    int[] array = new int[size];
-    for (int i = 0; i < size; i++)
-    {
-        array[i] = new Random().Next(100, 1000);
-    }
-    return array;
-}
+int[] array={6,7,3,7,2,4};
+int[] result = new int[3];
 
 void ShowArray(int[] array)
 {
